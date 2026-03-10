@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Feeling (~The White Lounge Version~ / Live)",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-03-10T12:15:01.795387Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feeling (~The White Lounge Version~ / Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_Feeling_(~The_White_Lounge_Version~___Live)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Feeling (~The White Lounge Version~ / Live / 映画「The White Lounge in CINEMA」より)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_Feeling_(~The_White_Lounge_Version~___Live___映画「The_White_Lounge_in_CINEMA」より)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Feeling (~The White Lounge Version~ / Live / From “The White Lounge in CINEMA” Soundtrack)",
+      "artist": "Mrs. Green Apple",
+      "has_synced": false,
+      "path": "select/03_Feeling_(~The_White_Lounge_Version~___Live___From_“The_White_Lounge_in_CINEMA”_S_Mrs._Green_Apple.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feeling(The White Lounge Version)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Feeling(The_White_Lounge_Version)_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
